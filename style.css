@@ -45,3 +45,9 @@ button {
     letter-spacing: 8px;
 }
 /* commenting out in css */
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
