@@ -1,0 +1,47 @@
+body {
+    background-color: cornflowerblue;
+    text-align: center;
+}
+
+
+div {
+    background-color: #de54f4;
+    padding: 10px;
+}
+
+h1 {
+    font-size: 45px;
+    color: rgb(224, 229, 84);
+}
+
+h2 {
+    font-size: 3rem;
+    letter-spacing: 3px;
+}
+
+button {
+    width: 150px;
+    height: 100px;
+}
+
+.login-button {
+    background-color: blueviolet;
+    border-radius: 20%;
+    border: 5px solid pink;
+}
+
+#logout {
+    border-radius: 30%;
+    background-color: red;
+    border: 5px dotted blue;
+}
+
+.title {
+    font-size: 60px;
+    color: antiquewhite;
+}
+
+#title {
+    letter-spacing: 8px;
+}
+/* commenting out in css */
